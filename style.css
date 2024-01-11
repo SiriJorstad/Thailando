@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(178, 215, 247);
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+    margin: 0;
+}
+
+#countdown {
+    font-size: 92px;
+    font-weight: bold;
+  }
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+#center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
